@@ -1,0 +1,12 @@
+aiortc>=1.5.0
+av>=10.0.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+opencv-python>=4.5.0
+numpy>=1.19.0
+mss>=6.1.0
+pydantic>=1.8.0
+python-xlib>=0.31
+pyvirtualdisplay>=3.0
+websockets>=10.0
+python-multipart>=0.0.5
